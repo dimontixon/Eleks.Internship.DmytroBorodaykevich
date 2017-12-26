@@ -1,4 +1,4 @@
-# tixon
+Eleks.Internship.DmytroBorodaykevich
 Videos Access Point
 Estimate - 120h
 Розробити веб-сервіс та базу даних, які надають інформацію про різного роду відеоролики.
